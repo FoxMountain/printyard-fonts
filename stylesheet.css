@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Abrade';
-    src: url('Abrade-Regular.eot');
-    src: url('Abrade-Regular.eot?#iefix') format('embedded-opentype'),
-        url('Abrade-Regular.woff2') format('woff2'),
-        url('Abrade-Regular.woff') format('woff'),
-        url('Abrade-Regular.ttf') format('truetype');
+    src: url('fonts/Abrade-Regular.eot');
+    src: url('fonts/Abrade-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Abrade-Regular.woff2') format('woff2'),
+        url('fonts/Abrade-Regular.woff') format('woff'),
+        url('fonts/Abrade-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Mirador';
-    src: url('Mirador-Bold.eot');
-    src: url('Mirador-Bold.eot?#iefix') format('embedded-opentype'),
-        url('Mirador-Bold.woff2') format('woff2'),
-        url('Mirador-Bold.woff') format('woff'),
-        url('Mirador-Bold.ttf') format('truetype');
+    src: url('fonts/Mirador-Bold.eot');
+    src: url('fonts/Mirador-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Mirador-Bold.woff2') format('woff2'),
+        url('fonts/Mirador-Bold.woff') format('woff'),
+        url('fonts/Mirador-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
